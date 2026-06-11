@@ -1,0 +1,5 @@
+# Don't push the .env file 
+.env
+*.log
+*.mtar
+.vscode/
